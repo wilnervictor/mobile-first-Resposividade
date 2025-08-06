@@ -96,7 +96,7 @@ hr{
 }
 .conteudo__ligacao__botao__video, .conteudo__ligacao__botao__audio{
     border: 0;
-    width: 38vw;
+    width: 37vw;
     font-family: var(--font-principal);
     font-weight: 500;
     font-size: 0.87rem;
